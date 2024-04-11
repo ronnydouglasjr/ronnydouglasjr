@@ -7,7 +7,7 @@
 
 ## Technology I use
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap" >
+<div style="display: flex; gap: 10px; flex-wrap: wrap; padding: 5px;" >
   <br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
